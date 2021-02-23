@@ -1,8 +1,7 @@
 # flutter_nobitex_api
 
 A new Flutter application.
-work with nobitext api to get data by post request and show them in the list
-data used in this app just show the last transactions
+work with nobitext api to get data by post request and show them in the DATA LIST (just show the last transactions)
 
 ## Getting Started
 
